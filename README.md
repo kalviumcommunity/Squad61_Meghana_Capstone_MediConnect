@@ -2,7 +2,7 @@
 
 ### DESCRIPTION:
 
-##### Mediconnect is an innovative and thoughtful capstone project that aims to address a common problem faced by many people suffering from various illnesses and disorders - the tedious and time-consuming process of booking appointments with doctors. By creating a web application that simplifies the appointment booking process, Mediconnect has the potential to make a significant and positive impact on people's lives.
+Mediconnect is an innovative and thoughtful capstone project that aims to address a common problem faced by many people suffering from various illnesses and disorders - the tedious and time-consuming process of booking appointments with doctors. By creating a web application that simplifies the appointment booking process, Mediconnect has the potential to make a significant and positive impact on people's lives.
 
 
 | Day   | Task                               |
@@ -23,4 +23,5 @@
 | Day 14| Deploy frontend server             |
 | Day 15| Match Design and end-state         |
 | Day 16| Use JWT in app                     |
+
 
