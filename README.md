@@ -13,7 +13,7 @@ Mediconnect is an innovative and thoughtful capstone project that aims to addres
 | Day 4 | Use Post API                       |
 | Day 5 | Use Put API                        |
 | Day 6 | Create Backend schema              |
-| Day 7 | Connect to MongoDB                |
+| Day 7 | Connect to MongoDB                 |
 | Day 8 | Deploy Backend                     |
 | Day 9 | Perform database read and write operations|
 | Day 10| Implement relations between entities|
